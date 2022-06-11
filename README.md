@@ -1,1 +1,1 @@
-# README.md tmux configuration repository
+# tmux configuration
